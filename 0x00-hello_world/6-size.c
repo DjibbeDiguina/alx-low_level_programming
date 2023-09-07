@@ -17,3 +17,4 @@ printf("Size of double: %zu bytes\n", sizeof(double));
 printf("Size of long double: %zu bytes\n", sizeof(long double));
 return (0);
 }
+
