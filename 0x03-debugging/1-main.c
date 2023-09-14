@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - causes an infinite loop
+* main - display causes an infinite loop using printf
+* @:special character
 * Return: 0
 */
-
 int main(void)
 {
 int i;
