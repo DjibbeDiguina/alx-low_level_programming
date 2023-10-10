@@ -8,7 +8,6 @@
 * @owner: Third member
 * Description: Longer description
 */
-
 	struct dog
 	{
 		char *name;
@@ -29,4 +28,6 @@
 	void free_dog(dog_t *d);
 	char *_strcpy(char *dest, char *src);
 	int _strlen(char *s);
-#endif
+
+
+	#endif
